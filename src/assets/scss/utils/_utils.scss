@@ -1,0 +1,6 @@
+@use 'sass:math';
+@use 'variables' as *;
+
+@function em($pixels, $context: $font-size-default) {
+  @return #{math.div($pixels, $context)}em;
+}

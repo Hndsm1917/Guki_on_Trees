@@ -32,3 +32,5 @@ export function reduce(arr, callback, initialValue) {
 
     console.log(arguments)
 }
+
+// Seed https://www.youtube.com/watch?v=5EmcmY5rJiQ&list=RD5EmcmY5rJiQ&start_radio=1

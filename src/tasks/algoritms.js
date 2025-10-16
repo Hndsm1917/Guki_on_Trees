@@ -34,3 +34,5 @@ export function reduce(arr, callback, initialValue) {
 }
 
 // Seed https://www.youtube.com/watch?v=5EmcmY5rJiQ&list=RD5EmcmY5rJiQ&start_radio=1
+// Algoritm seed-ecb
+// Service https://encode-decode.com/seed-ecb-encrypt-online/
